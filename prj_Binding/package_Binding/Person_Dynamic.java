@@ -1,4 +1,4 @@
-package prj_Binding;
+package package_Binding;
 
 public class Person_Dynamic {
 
