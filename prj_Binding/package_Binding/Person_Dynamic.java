@@ -1,9 +1,7 @@
 package package_Binding;
 
 public class Person_Dynamic {
-
-
-    public void display() {
-        System.out.println("Parent class display method");
+    public void hello() {
+        System.out.println("Hallo");
     }
 }
